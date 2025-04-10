@@ -1,6 +1,12 @@
 # British Airways Reviews | Tableau Dashboard
-A comprehsive analysis of customer reviews for British Airways utilizing a Tableau Dashboard
+![showcase](https://github.com/user-attachments/assets/179832db-54a5-416d-aeee-88e318ee1487)
+A comprehensive analysis of customer reviews for British Airways utilizing a Tableau Dashboard.
 ## Background and Overview
+British Airways, established in 1974, is the second largest airline in the United Kingdom. It is headquartered in London, England utilizing Heathrow Airport as its main hub. The goal of the project is to view changes in public sentiment over time for multiple metrics and filter criteria including ratings, time, traveller  
+
+Insights and visuals are provided on the following key areas:
+- Analyzing a given metric 
+
 
 ## Data Structure and Info
 |   column name       |     data type     |     column name     | data type           |   
