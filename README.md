@@ -1,2 +1,1 @@
-# British-Airways-Reviews
-British Airways Reviews | Tableau
+# British Airways Reviews | Tableau Dashboard
