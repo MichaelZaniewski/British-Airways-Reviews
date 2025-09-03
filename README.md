@@ -8,7 +8,7 @@ The goal of the project is to view changes in public sentiment over time utilizi
 
 Insights and visuals are provided on the following key areas:
 - The "Overall Rating" consumers report, along with average ratings in the following categories: "Cabin Staff Service," "Entertainment," "Food," "Ground Service," "Seat Comfort," and "Value for Money." 
-- 
+- Selected metric dynamically expands to show changes by month, country, and aircraft. 
 
 
 ## Data Structure and Info
