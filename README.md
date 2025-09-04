@@ -4,11 +4,12 @@ A comprehensive analysis of customer reviews for British Airways utilizing a Tab
 ## Background and Overview
 British Airways, established in 1974, is the second largest airline in the United Kingdom. It is headquartered in London, England, with Heathrow Airport as its main hub. 
 
-The goal of the project is to view changes in public sentiment over time utilizing numerous, filterable metrics in order to understand trends and create reccomendations that satisfy consumers' needs in underperforming areas.  
+The goal of this project is to view changes in public sentiment over time utilizing numerous, filterable metrics in order to understand trends and create reccomendations that bolster consumer satisfaction in underperforming areas.  
 
-Insights and visuals are provided on the following key areas:
+Insights are provided on the following areas:
 - The "Overall Rating" consumers report, along with average ratings in the following categories: "Cabin Staff Service," "Entertainment," "Food," "Ground Service," "Seat Comfort," and "Value for Money." 
-- Selected metric dynamically expands to show changes by month, country, and aircraft. 
+- Sentiment changes by month, country, and aircraft per metric selected.
+- The relationship between seat type and traveler type to satisfaction scores. 
 
 
 ## Data Structure and Info
@@ -25,7 +26,7 @@ Insights and visuals are provided on the following key areas:
 |     route           |       string      | entertainment       | integer             |
 | date_flown          |        date       |
 ## Executive Summary
-- The average entertainment rating for all seat and traveler types are consistently lowest among all other metrics. This area should be addressed immedietly as it has the most room to improve.    
+- Entertainment is consistently ranked lowest. This area should be addressed immedietly as it has the most room to improve.    
 ### Overview
 ### Findings
 ### Recommendations
