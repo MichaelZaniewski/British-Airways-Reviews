@@ -9,7 +9,7 @@ The goal of this project is to view changes in public sentiment over time utiliz
 Insights are provided on the following areas:
 - The "Overall Rating" consumers report, along with average ratings in the following categories: "Cabin Staff Service," "Entertainment," "Food," "Ground Service," "Seat Comfort," and "Value for Money." 
 - Sentiment changes by month, country, and aircraft per metric selected.
-- The relationship between seat type and traveler type to satisfaction scores. 
+- Relationships between seat type and traveler type to satisfaction scores. 
 
 
 ## Data Structure and Info
@@ -26,10 +26,18 @@ Insights are provided on the following areas:
 |     route           |       string      | entertainment       | integer             |
 | date_flown          |        date       |
 ## Executive Summary
+THE MAIN POINT, THE MEAT, THE LARGEST MOST IMPORTANT FINDING!
+
 - Entertainment is consistently ranked lowest. This area should be addressed immedietly as it has the most room to improve.    
-### Overview
-### Findings
+### Overview of Findings
+- Entertainment is consistently rated lowest amongst all other metrics, especially by those traveling in economy class.
+- The Boeing 777-200 is rated highest for value in every cabin except premium economy where it's rated the lowest.
+- In 2022, overall ratings from business class travelers peaked at 8.0 in February, and saw lows of 1.0 in October.
+- The highest number of reviews comes from the United Kingdom at 843, followed by the United States at 128.
 ### Recommendations
-### Limitations and Assumptions
+## Assumptions, Limitations, and Caveats
+### Assumptions
+### Limitations
+### Caveats
 - Limit: Competition is not considered in these findings.
 
