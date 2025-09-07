@@ -37,7 +37,7 @@ THE MAIN POINT, THE MEAT, THE LARGEST MOST IMPORTANT FINDING!
 
 - Entertainment is consistently ranked lowest. This area should be addressed immedietly as it has the most room to improve.    
 ### Overview of Findings
-- This satisfaction dashboard should serve as a baseline for conducting further, more specific, surveying of various service elements. Poll prem eco about their experience with seat, space, amenities etc to find out why they consistently rank lowest satisfaction scores on 777-200. Investigate root cause of BC volatility (strikes? schedule changes, seasonality? ) Poll UK markets and tailor service improvements to address UK traveler expectations first as they are the primary demographic and also promote US feedback to balance feedback 
+- This satisfaction dashboard should serve as a baseline for conducting further, more specific, surveying of various service elements. Poll prem eco about their experience with seat, space, amenities etc to find out why they consistently rank lowest satisfaction scores on 777-200. Investigate root cause of BC volatility (strikes? schedule changes, seasonality? ) Poll UK markets and tailor service improvements to address UK traveler expectations first as they are the primary demographic and also promote US feedback to balance feedback. While some reccomendations can be made on immediate results in this dashboard, its a good idea to continue surveying in focused areas highlighted in the dashboard
 ### Findings
 - Entertainment is consistently rated lowest amongst all other metrics, especially by those traveling in economy class.
 - The Boeing 777-200 is rated highest for value in every cabin except premium economy where it's rated the lowest.
