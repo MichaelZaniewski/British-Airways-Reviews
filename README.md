@@ -44,7 +44,13 @@ THE MAIN POINT, THE MEAT, THE LARGEST MOST IMPORTANT FINDING!
 ### Recommendations
 ## Assumptions, Limitations, and Caveats
 ### Assumptions
+- Customer reviews are representative of the broader passenger base and accurately reflect the typical traveler experience.
+- Ratings across service categories are comparable and reflect consistent interpretations of scoring scales by customers.
 ### Limitations
+- The dataset may be biased toward customers who are motivated to leave reviews, often those with very positive or very negative experiences.
+- Reviews do not capture all aspects of the travel experience. 
 ### Caveats
-- Limit: Competition is not considered in these findings.
+- Satisfaction levels may vary with external factors outside British Airways’ control, for example airport facilities or weather disruptions.
+- Differences in cultural expectations across regions could skew ratings; what constitutes "good service" in one market may not align with another.
+- Customer perceptions may be influenced by comparisons with competing airlines, which could bias satisfaction ratings independently of British Airways’ actual service delivery.
 
