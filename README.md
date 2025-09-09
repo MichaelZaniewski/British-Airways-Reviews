@@ -42,14 +42,14 @@ This dashboard acts as a high-level overview of satisfaction across multiple cus
 - The highest number of reviews comes from the United Kingdom at 843, followed by the United States at 128.
 ### Recommendations
 1) Enhance In-Flight Entertainment:
-- Address the consistently low entertainment ratings by expanding content libraries, improving seatback systems, or offering bring-your-own-device streaming options. To avoid major hardware investments and maintenance upkeep, explore partnerships with popular streaming services to increase perceived value. Once updated, market new changes to economy class passengers to inform.
+- Address the consistently low entertainment ratings by expanding content libraries, improving seatback systems, or offering bring-your-own-device streaming options. To avoid major hardware investments and maintenance upkeep, explore partnerships with popular streaming services to increase perceived value. Once updated, market the new changes to economy class passengers to inform them.
 2) Further Surveying:
 - Conduct surveys and focus groups with Premium Economy passengers to identify whether dissatisfaction stems from seat design, legroom, cabin layout, or perceived value relative to ticket price. 
 - Increase customer feedback from other countries to balance reviews. Ratings may be shaped by how different regions perceive value, comfort, or service quality. More segmented analysis by market could help distinguish drivers of satisfaction.
-- Poll Business Class to determine if rating volatility is due to operational issues or the in-flight experience. Many Business Class travelers are professionals traveling for work. Operational issues such as departure delays can heavily affect the "Overall" rating  
-
-- Impliment stronger quality control and service consistency measures to ensure Business Class customers receive a dependable premium experience to ensure satisfaction scores dont dip again as they did in 2022.
-  
+- Poll Business Class passengers to determine if rating volatility is due to uncontrollable operational issues or the in-flight experience. Many Business Class travelers are professionals traveling for work. Operational issues such as ATC delays can heavily affect the "Overall" rating. While customers are justified in becoming frustrated for missing work due to uncontrollable delays, British Airways is not directly at fault but may still incur negative remarks as a result. If it is determined that in-flight service was to blame, implement stronger quality control and service consistency measures to ensure Business Class customers receive a dependable premium experience.
+3) Leverage and Balance Geographic Feedback
+- Prioritize addressing concerns raised by UK travelers since they represent the bulk of current feedback and likely form the airline’s core customer base.
+- Encourage more reviews from US passengers through incentives such as loyalty program points or post-flight email prompts, and use the resulting data to better understand differences in customer expectations. Focus on fulfilling requests and suggestions shared by both UK and US travelers to enhance satisfaction among the core UK customer base and build trust and loyalty with new US customers.
 ## Assumptions, Limitations, and Caveats
 ### Assumptions
 - Customer reviews are representative of the broader passenger base and accurately reflect the typical traveler experience.
