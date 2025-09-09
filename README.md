@@ -41,6 +41,15 @@ This dashboard acts as a high-level overview of satisfaction across multiple cus
 - In 2022, overall ratings from business class travelers peaked at 8.0 in February, and saw lows of 1.0 in October.
 - The highest number of reviews comes from the United Kingdom at 843, followed by the United States at 128.
 ### Recommendations
+1) Enhance In-Flight Entertainment:
+- Address the consistently low entertainment ratings by expanding content libraries, improving seatback systems, or offering bring-your-own-device streaming options. To avoid major hardware investments and maintenance upkeep, explore partnerships with popular streaming services to increase perceived value. Once updated, market new changes to economy class passengers to inform.
+2) Further Surveying:
+- Conduct surveys and focus groups with Premium Economy passengers to identify whether dissatisfaction stems from seat design, legroom, cabin layout, or perceived value relative to ticket price. 
+- Increase customer feedback from other countries to balance reviews. Ratings may be shaped by how different regions perceive value, comfort, or service quality. More segmented analysis by market could help distinguish drivers of satisfaction.
+- Poll Business Class to determine if rating volatility is due to operational issues or the in-flight experience. Many Business Class travelers are professionals traveling for work. Operational issues such as departure delays can heavily affect the "Overall" rating  
+
+- Impliment stronger quality control and service consistency measures to ensure Business Class customers receive a dependable premium experience to ensure satisfaction scores dont dip again as they did in 2022.
+  
 ## Assumptions, Limitations, and Caveats
 ### Assumptions
 - Customer reviews are representative of the broader passenger base and accurately reflect the typical traveler experience.
