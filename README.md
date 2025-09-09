@@ -34,12 +34,10 @@ Insights are provided on the following key areas:
 | date_flown          |        date       |
 ## Executive Summary 
 ### Overview of Findings
-This dashboard acts as a high-level overview of satisfaction across multiple customer service metrics. While it highlights several actionable insights, its true value lies in identifying areas that warrant deeper investigation. Immedietly apparrent insights include consistently low ratings in Entertainment, 
-
-1 b c while more in-depth surveying is needed in abx
+This dashboard acts as a high-level overview of satisfaction across multiple customer service metrics. While it highlights several actionable insights, its true value lies in identifying areas that warrant deeper investigation. Immediately apparent insights include consistently low ratings in Entertainment and significantly higher quantity of UK reviewers than anyone else. Areas requiring deeper investigation include the perceived value of the 777-200 in premium economy, business class satisfaction volatility in 2022, and geographic differences in expectations (e.g. UK vs US).
 ### Findings
 - Entertainment is consistently rated lowest amongst all other metrics, especially by those traveling in economy class.
-- The Boeing 777-200 is rated highest for value in every cabin except premium economy where it's rated the lowest.
+- The Boeing 777-200 is rated highest (or tied for highest) for value in every cabin except premium economy where it's rated the lowest.
 - In 2022, overall ratings from business class travelers peaked at 8.0 in February, and saw lows of 1.0 in October.
 - The highest number of reviews comes from the United Kingdom at 843, followed by the United States at 128.
 ### Recommendations
